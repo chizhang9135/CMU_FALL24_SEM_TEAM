@@ -10,7 +10,7 @@
 
 ---
 
-**Name**: Chi  
+**Name**: Chi Zhang  
 **Role**: Team Lead  
 **Duties**:
 1. Team management and coordination.  
