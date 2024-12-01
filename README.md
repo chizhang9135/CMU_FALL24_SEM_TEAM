@@ -10,7 +10,7 @@
 4. [Additional duty, e.g., "Dataset processing and feature engineering."]
 5. [Additional duty, e.g., "Model creation, analysis, and visualization."]
 
-
+---
 
 **Name**: Chi  
 **Role**: Team Lead  
@@ -22,6 +22,7 @@
 4. Dataset processing and feature engineering.  
 5. Model creation, analysis, and visualization.
 
+---
 
 **Name**: Sampath Nair 
 
