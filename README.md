@@ -35,8 +35,8 @@
 
 ---
 
-**Name**: Lan Lan
-**Role**: Team Member
+**Name**: Lan Lan  
+**Role**: Team Member  
 **Duties**:
 1. “Independent Experiments and Hypothesis Testing.“
 2. “Data Analysis and Coding.“
