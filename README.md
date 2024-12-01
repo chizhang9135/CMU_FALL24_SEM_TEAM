@@ -31,5 +31,16 @@
 **Duties**:
 1. Sprint planning and Scrum Master.  
 2. Coding,optimzation and code review.  
-3. Model analysis and visualization.  
+3. Model analysis and visualization.
+
+---
+
+*Name*: Lan Lan
+*Role*: Team Member
+*Duties*:
+1. “Independent Experiments and Hypothesis Testing.“
+2. “Data Analysis and Coding.“
+3. “Data Visualization and Documentation.“
+4. “Driving Project Progress.“
+5. “Team Communication and Coordination.“
  
