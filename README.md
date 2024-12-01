@@ -20,4 +20,14 @@
 2. Repository and version control.  
 3. Code framework development and optimization.  
 4. Dataset processing and feature engineering.  
-5. Model creation, analysis, and visualization.  
+5. Model creation, analysis, and visualization.
+
+
+**Name**: Sampath Nair 
+**Role**: Team Member  
+
+**Duties**:
+1. Sprint planning and Scrum Master.  
+2. Code review.  
+3. Model analysis and visualization.  
+ 
