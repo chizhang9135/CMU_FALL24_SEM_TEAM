@@ -1,13 +1,12 @@
 ### Contribution 
 
-**Name**: [Full Name]  
-**Role**: [Role Title]  
+**Name**: Sharad Kumar  
+**Role**: Team Member  
 **Duties**:
-1. [Primary duty, e.g., "Team management and coordination."]
-2. [Secondary duty, e.g., "Repository and version control."]
-3. [Additional duty, e.g., "Code framework development and optimization."]
-4. [Additional duty, e.g., "Dataset processing and feature engineering."]
-5. [Additional duty, e.g., "Model creation, analysis, and visualization."]
+1. Data Visualization and Coding
+2. Code Review
+3. Model Performance KPI definition and evaluation of Model (Random Forest)
+
 
 ---
 
@@ -34,9 +33,9 @@
 **Name**: Lan Lan  
 **Role**: Team Member  
 **Duties**:
-1. “Independent Experiments and Hypothesis Testing.“
-2. “Data Analysis and Coding.“
-3. “Data Visualization and Documentation.“
-4. “Driving Project Progress.“
-5. “Team Communication and Coordination.“
+1. Independent Experiments and Hypothesis Testing.
+2. Data Analysis and Coding.
+3. Data Visualization and Documentation.
+4. Driving Project Progress.
+5. Team Communication and Coordination.
  
