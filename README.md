@@ -2,7 +2,6 @@
 
 **Name**: [Full Name]  
 **Role**: [Role Title]  
-
 **Duties**:
 1. [Primary duty, e.g., "Team management and coordination."]
 2. [Secondary duty, e.g., "Repository and version control."]
@@ -14,7 +13,6 @@
 
 **Name**: Chi  
 **Role**: Team Lead  
-
 **Duties**:
 1. Team management and coordination.  
 2. Repository and version control.  
@@ -25,9 +23,7 @@
 ---
 
 **Name**: Sampath Nair 
-
 **Role**: Team Member  
-
 **Duties**:
 1. Sprint planning and Scrum Master.  
 2. Coding,optimzation and code review.  
