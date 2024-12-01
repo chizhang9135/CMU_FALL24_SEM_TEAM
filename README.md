@@ -29,6 +29,6 @@
 
 **Duties**:
 1. Sprint planning and Scrum Master.  
-2. Code review.  
+2. Coding,optimzation and code review.  
 3. Model analysis and visualization.  
  
