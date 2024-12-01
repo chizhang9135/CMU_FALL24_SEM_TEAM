@@ -22,7 +22,7 @@
 
 ---
 
-**Name**: Sampath Nair 
+**Name**: Sampath Nair  
 **Role**: Team Member  
 **Duties**:
 1. Sprint planning and Scrum Master.  
